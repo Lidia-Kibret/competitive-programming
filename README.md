@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0898-transpose-matrix) |
 | [1580-shuffle-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1580-shuffle-the-array) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0898-transpose-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0898-transpose-matrix) |
 ## String
 |  |
 | ------- |
