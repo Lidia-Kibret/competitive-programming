@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
