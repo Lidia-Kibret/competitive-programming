@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
 | [1580-shuffle-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1580-shuffle-the-array) |
 | [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -51,9 +53,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
