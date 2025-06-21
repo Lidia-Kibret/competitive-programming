@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
+| [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
