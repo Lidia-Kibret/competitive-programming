@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
