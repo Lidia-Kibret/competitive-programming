@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
 | [1580-shuffle-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1580-shuffle-the-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -57,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
