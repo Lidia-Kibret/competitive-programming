@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
 | [1580-shuffle-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1580-shuffle-the-array) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
 | [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
 ## Counting
