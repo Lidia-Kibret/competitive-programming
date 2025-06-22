@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
 ## Simulation
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1044-find-common-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1217-relative-sort-array) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
