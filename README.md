@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1217-relative-sort-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
