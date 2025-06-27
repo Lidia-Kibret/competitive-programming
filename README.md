@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0136-single-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0283-move-zeroes) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
