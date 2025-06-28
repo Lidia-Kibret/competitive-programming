@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
