@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1019-squares-of-a-sorted-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2128-reverse-prefix-of-word) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1873-longest-nice-substring](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2128-reverse-prefix-of-word](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2128-reverse-prefix-of-word) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
