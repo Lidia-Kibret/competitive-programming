@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2714-left-and-right-sum-differences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2714-left-and-right-sum-differences) |
 ## Design
 |  |
 | ------- |
