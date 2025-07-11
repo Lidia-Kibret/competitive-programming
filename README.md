@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0219-contains-duplicate-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0283-move-zeroes) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0234-palindrome-linked-list) |
