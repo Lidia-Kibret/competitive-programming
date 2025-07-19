@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0969-number-of-recent-calls) |
 ## Counting Sort
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0303-range-sum-query-immutable) |
+| [0969-number-of-recent-calls](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
@@ -285,5 +287,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
