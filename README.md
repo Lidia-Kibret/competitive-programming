@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0136-single-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
