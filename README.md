@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
