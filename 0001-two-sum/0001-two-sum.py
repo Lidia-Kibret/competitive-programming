@@ -1,13 +1,14 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        arr =  {}
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        result = {}
+
         for i in range(len(nums)):
-            lid = target - nums[i]
-            if lid in arr:
-                return[arr[lid] ,i]
-            arr[nums[i]] =i
+            count = target - nums[i]
+
+            if count in result:
+                return [result[count], i]
+
+            result[nums[i]] = i
+            
+            
+        
