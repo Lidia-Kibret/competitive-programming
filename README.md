@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1603-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1791-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0633-sum-of-square-numbers) |
 | [0924-fair-candy-swap](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0924-fair-candy-swap) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Queue
 |  |
 | ------- |
