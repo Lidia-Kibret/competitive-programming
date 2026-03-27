@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0941-sort-array-by-parity) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1019-squares-of-a-sorted-array) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1019-squares-of-a-sorted-array) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
 |  |
 | ------- |
