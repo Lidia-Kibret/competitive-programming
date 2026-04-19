@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0941-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0969-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1217-relative-sort-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0941-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0969-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0941-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0969-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0969-pancake-sorting) |
 ## Prefix Sum
 |  |
 | ------- |
