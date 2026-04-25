@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0898-transpose-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0234-palindrome-linked-list) |
 | [1582-design-browser-history](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1582-design-browser-history) |
 | [2128-reverse-prefix-of-word](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2128-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
