@@ -1,7 +1,7 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         s = s.lower()
-        left , right = 0 , len(s) -1
+        left, right = 0, len(s) - 1
         while left < right:
             if not s[left].isalnum():
                 left += 1
@@ -13,4 +13,8 @@ class Solution:
                 left += 1
                 right -= 1
         return True
-        
+
+            
+
+
+
