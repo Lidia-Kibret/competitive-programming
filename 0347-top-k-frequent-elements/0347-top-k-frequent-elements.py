@@ -6,9 +6,11 @@ class Solution:
                 result[num] += 1
             else:
                 result[num] = 1
-        sort_items = sorted(result.items(), key=lambda x: x[1], reverse=True)
+        sort_items = sorted(result.items(), key = lambda x:x[1], reverse = True)
         res = []
         for i in range(k):
             res.append(sort_items[i][0])
-        return res 
+        return res
+
+        
         
