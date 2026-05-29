@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lidia-Kibret/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lidia-Kibret/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
