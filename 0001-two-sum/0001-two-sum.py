@@ -3,8 +3,13 @@ class Solution:
         result = {}
         for i in range(len(nums)):
             count = target - nums[i]
-
             if count in result:
                 return[result[count], i]
+            result[nums[i]] = i
 
-            result[nums[i]] = i        
+
+
+
+
+         
+        
