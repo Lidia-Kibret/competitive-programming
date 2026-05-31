@@ -1,4 +1,7 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        return str(x) == str(x)[::-1]
+        if x < 0 or (x % 10 == 0 and x != 0):
+            return False
+        nums = str(x)
+        return nums == nums[::-1]
         
