@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1480-running-sum-of-1d-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1582-design-browser-history) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3778-transform-array-by-parity](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
