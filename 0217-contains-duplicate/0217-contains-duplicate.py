@@ -3,9 +3,9 @@ class Solution:
         result = {}
         for i in range(len(nums)):
             num = nums[i]
-
             if num in result:
                 return True
             result[num] = True
-
-        return False        
+           
+        return False
+        
