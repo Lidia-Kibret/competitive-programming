@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lidia-Kibret/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Lidia-Kibret/competitive-programming/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -378,8 +379,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0053-maximum-subarray) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Lidia-Kibret/competitive-programming/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Lidia-Kibret/competitive-programming/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
