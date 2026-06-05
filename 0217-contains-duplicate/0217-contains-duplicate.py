@@ -6,6 +6,6 @@ class Solution:
             if num in result:
                 return True
             result[num] = True
-           
         return False
+        
         
