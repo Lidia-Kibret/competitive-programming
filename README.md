@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1603-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1791-richest-customer-wealth) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2418-sort-the-people) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1873-longest-nice-substring) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Lidia-Kibret/competitive-programming/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2502-sort-the-people) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1603-running-sum-of-1d-array) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Lidia-Kibret/competitive-programming/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2714-left-and-right-sum-differences](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/2714-left-and-right-sum-differences) |
 ## Design
 |  |
