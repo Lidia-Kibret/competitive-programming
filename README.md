@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0861-flipping-an-image) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Lidia-Kibret/competitive-programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Lidia-Kibret/new-repository-leetcode-soultion-in-cpp/tree/master/0633-sum-of-square-numbers) |
