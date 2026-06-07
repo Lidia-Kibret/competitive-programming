@@ -1,8 +1,6 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        for i in t:
-            if t.count(i) != s.count(i):
-                return i
-                
-
+        for _ in t:
+            if s.count(_) != t.count(_):
+                return _
         
