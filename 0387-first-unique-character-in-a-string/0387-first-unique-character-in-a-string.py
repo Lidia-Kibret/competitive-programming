@@ -1,9 +1,8 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        freq = Counter(s)
-        for key, value in enumerate(s):
-            if freq[value] == 1:
-                return key
+        from collections import Counter
+        count=Counter(s)
+        for key in count:
+            if count[key]==1:
+                return s.index(key)
         return -1
-
-        
