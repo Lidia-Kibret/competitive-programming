@@ -1,7 +1,18 @@
-# new-repository-leetcode-soultion-in-cpp
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+#  LeetCode Solutions in Python
 
-<!---LeetCode Topics Start-->
+Welcome to my repository for tracking LeetCode progress! This space is dedicated to mastering Data Structures and Algorithms (DSA) as I prepare for software engineering internships.
+
+All solutions are in **Python** and automatically synced from LeetCode using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+---
+
+## 🎯 Repository Goals
+* 🚀 **Interview Prep:** Mastering core algorithmic patterns to ace technical screens.
+* 📈 **Consistency:** Solving problems daily to build strong debugging instincts.
+* ⚡ **Efficiency:** Focusing on writing code with optimal time and space complexity.
+
+---
+
 # LeetCode Topics
 ## Array
 |  |
