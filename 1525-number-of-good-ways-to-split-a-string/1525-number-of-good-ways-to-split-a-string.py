@@ -2,7 +2,6 @@ class Solution:
     def numSplits(self, s: str) -> int:
         left = set()
         right = Counter(s)
-
         ans = 0
         for ch in s[:-1]:
             left.add(ch)
@@ -11,7 +10,4 @@ class Solution:
                 del right[ch]
             if len(left) == len(right):
                 ans += 1
-        return ans
-
-
-        
+        return ans       
