@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        y = s.reverse()
-        return y
-        
+        ch = s.reverse()
+        print(ch)
+  
         
