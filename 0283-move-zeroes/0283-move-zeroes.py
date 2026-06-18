@@ -3,8 +3,11 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        place = 0
-        for seek in range(len(nums)):
-            if nums[seek] != 0:
-                nums[place] , nums[seek] = nums[seek] , nums[place]
-                place +=1        
+        p = 0
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[p], nums[i] = nums[i], nums[p]
+                p += 1
+
+
+        
