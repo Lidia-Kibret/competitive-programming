@@ -4,13 +4,14 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        values = []
-        current = head
-        while current:
-            values.append(current.val)
-            current = current.next
+    def isPalindrome(self, head: ListNode | None) -> bool:
+        result = []
+        ans = head 
+        while ans:
+            result.append(ans.val)
+            ans = ans.next
+        return result == result[::-1]
 
-        return values == values[::-1]
-        
+
+
         
